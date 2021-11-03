@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+import NewsComponent from "./components/NewsComponent";
 
 function App() {
   return (
     <div className="App">
-
+      <NewsComponent />
     </div>
   );
 }
